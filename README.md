@@ -10,7 +10,7 @@ npm run install && npm run build
 ## install
 
 ```bash
-yarn install twin.macro-vitest-library
+yarn install twin.macro-vitest-storybook-library
 ```
 
 ## storybook setup history
